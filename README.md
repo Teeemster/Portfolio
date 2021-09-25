@@ -10,7 +10,7 @@ This repository can be opened as an HTML within Github at the website: https://t
 
 From here you can navigate around the page to view information about me. You will also be able to click the pictures in the main body of the website, which will take you to visit my LinkedIn, Github profile, or work samples.
 
-![](/assets/images/WebsiteSample.png)
+![](assets/images/WebsiteSample.png)
     
 ## Credits
 * Jonathan Beach
