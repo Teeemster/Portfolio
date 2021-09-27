@@ -20,5 +20,5 @@ From here you can navigate around the page to view information about me. You wil
 ## Badges
   
 * <a href="https://github.com/badges/shields"><img src="https://img.shields.io/badge/CSS-50%25-green" alt="CSS 50% Badge"></a>
-* <a href="https://github.com/badges/shields"><img src="https://img.shields.io/badge/JavaScript-50%25-green" alt="JavaScript 50% Badge"></a>
+* <a href="https://github.com/badges/shields"><img src="https://img.shields.io/badge/JavaScript-50%25-green" alt="HTML 50% Badge"></a>
 
