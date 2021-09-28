@@ -123,6 +123,7 @@
         height: 75%;
         width: 75%;
     }
+}
     @media screen and (max-width: 768px) {
         .header h1 {
             font-size: 25px;
