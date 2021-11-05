@@ -59,6 +59,11 @@
     text-align: center;
 }
 
+.subarticle {
+    border-bottom: 10px dashed;
+    border-color: #CC5500;
+}
+
 #MyWork {
     border-bottom: 10px dashed;
     border-color: #CC5500;
