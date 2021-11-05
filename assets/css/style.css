@@ -95,10 +95,6 @@
     .header h2 {
         font-size: 20px;
     }
-    .about-me {
-        background-position-x: -20px;
-        background-position-y: 100px;
-    }
     .section {
         font-size: 25px;
     }
@@ -124,8 +120,6 @@
     }
     .about-me {
         font-size: 16px;
-        background-position-x: -20px;
-        background-position-y: 100px;
     }
     .section {
         font-size: 25px;
@@ -148,8 +142,6 @@
     }
     .about-me {
         font-size: 16px;
-        background-position-x: -20px;
-        background-position-y: 100px;
     }
     .section {
         font-size: 25px;
