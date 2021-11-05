@@ -22,11 +22,6 @@
     position: -webkit-sticky;
     position: sticky;
     top: 0;
-    background-image: url("../images/longhorntower.svg");
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-position-x: 50px;
-    background-position-y: 135px;
 }
 
 .header h1 {
@@ -51,11 +46,6 @@
 .about-me {
     background-color: #CC5500;
     text-align: center;
-    background-image: url("../images/longhorntower.svg");
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-position-x: 50px;
-    background-position-y: 135px;
 }
 
 /*Main Body Stylers*/
